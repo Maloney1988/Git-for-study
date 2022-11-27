@@ -8,6 +8,7 @@ namespace ConsoleSandbox
         {
 			Console.WriteLine("Hello World!");
      		Console.WriteLine("Hello everyone!");
+     		Console.WriteLine("Hello my dier friend!");
             Console.ReadLine();
         }
     }
